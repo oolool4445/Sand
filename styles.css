@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f7e7c6;
+  color: #5c4326;
+}
+
+header {
+  background: #e2c290;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #3b2a1a;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #cfa76e;
+  border: none;
+  cursor: pointer;
+}
+
+.gallery {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  background: #e8d3a9;
+  padding: 20px;
+  border-radius: 8px;
+}
